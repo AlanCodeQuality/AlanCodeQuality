@@ -36,11 +36,11 @@
 
 <h3>Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,postman,#D22128&theme=light)](https://skillicons.dev)
 
 <h3>Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,postman,jmeter,git,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,&theme=light)](https://skillicons.dev)
 
 <h2>📈 My Statistics:</h2>
 <div align="center">
