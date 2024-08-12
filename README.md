@@ -40,9 +40,8 @@
   <!-- Ícones usando Skillicons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=selenium,postman,&theme=light" alt="Skills Icons" style="margin-right: 10px;"/>
-  </a>
-  <!-- Ícone do JUnit -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit Icon" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit Icon" />
+</a>
 </div>
 
 
