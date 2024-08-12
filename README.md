@@ -36,15 +36,10 @@
 
 <h3>Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,postman,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,postman,&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=selenium,postman,&theme=light)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-plain.svg" width="40" height="40" alt="JMeter Icon" />
 
-           
-<h3>Stack:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=selenium,postman,&theme=light)](https://skillicons.dev)
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
- 
-    
+          
           
 <h3>Tools:</h3>
 
