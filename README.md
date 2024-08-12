@@ -26,13 +26,21 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,javascript,&theme=light)](https://skillicons.dev)
 
-<h3>Database:</h3>
+<h3>Web:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,&theme=light)](https://skillicons.dev)
+
+<h3>Databases:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
 
+<h3>Stack:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,&theme=light)](https://skillicons.dev)
 
 <h3>Tools:</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=selenium,postman,jmeter,git,&theme=light)](https://skillicons.dev)
 
 <h2>📈 My Statistics:</h2>
 <div align="center">
