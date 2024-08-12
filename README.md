@@ -24,7 +24,7 @@
 
 <h3>Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,javascript&theme=light)](https://skillicons.dev)
 
 <h3>Database:</h3>
 
