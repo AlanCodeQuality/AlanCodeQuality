@@ -36,7 +36,7 @@
 
 <h3>Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,postman,&theme=light)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit Icon" />
+[![My Skills](https://skillicons.dev/icons?i=selenium,postman,&theme=light)(<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit Icon" />)](https://skillicons.dev) 
 
  
           
