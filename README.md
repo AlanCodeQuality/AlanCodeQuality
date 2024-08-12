@@ -36,14 +36,15 @@
 
 <h3>Stack:</h3>
 
-<p align="left">
+<div style="display: inline-flex; align-items: center;">
   <!-- Ícones usando Skillicons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,postman,&theme=light" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=selenium,postman,&theme=light" alt="Skills Icons" style="margin-right: 10px;"/>
   </a>
   <!-- Ícone do JUnit -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit Icon" style="margin-left: 10px;" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit Icon" />
+</div>
+
 
 <h3>Tools:</h3>
 
