@@ -28,6 +28,8 @@
 
 <h3>Database:</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
+
 
 <h3>Tools:</h3>
 
