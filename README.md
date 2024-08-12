@@ -24,29 +24,14 @@
 <p>These are some of the technologies and tools I use:</p>
 
 <h3>Languages:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C%2B%2B.svg"/>
-  <img align="center" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg"/>
-  <img align="center" alt="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python.svg"/>
-  <img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
+
 </div>
 
 <h3>Database:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL.svg"/>
-  <img align="center" alt="MySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL.svg"/>
-</div>
+
 
 <h3>Tools:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
-  <img align="center" alt="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"/>
-  <img align="center" alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg"/>
-  <img align="center" alt="JUnit" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JUnit.svg"/> 
-  <img align="center" alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg"/>
-  <img align="center" alt="JMeter" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JMeter.svg"/>
-  <img align="center" alt="BDD Cucumber" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cucumber.svg"/>
-</div>
+
 
 <h2>📈 My Statistics:</h2>
 <div align="center">
