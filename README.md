@@ -41,6 +41,8 @@
   <img alt="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40"/>
   <img alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" width="40"/>
   <img alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="40"/>
+  <img src="C:\Users\alana\OneDrive\Documents\Faculdade\6 Semestre\Estágio Supervisionado II-jmeter.svg" alt="JMeter Icon" width="24" height="24">
+
 </div>
 
 <h3>Tools:</h3>
