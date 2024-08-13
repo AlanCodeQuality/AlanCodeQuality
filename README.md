@@ -36,13 +36,12 @@
 
 <h3>Stack:</h3>
 
-<div style="display: inline-flex; align-items: center;">
-  <!-- Ícones usando Skillicons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,postman,&theme=light" alt="Skills Icons" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit Icon" />
-</a>
-</div>
+<img align="center" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40"/>
+<img align="center" alt="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40"/>
+<img align="center" alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" width="40"/>
+<img align="center" alt="JUnit" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JUnit.svg" width="40"/> 
+<img align="center" alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="40"/>
+<img align="center" alt="JMeter" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JMeter.svg" width="40"/>
 
 
 <h3>Tools:</h3>
