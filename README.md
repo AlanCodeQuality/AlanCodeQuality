@@ -42,6 +42,7 @@
   <img alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" width="40"/>
   <img alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="40"/>
 </div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <h3>Tools:</h3>
 
