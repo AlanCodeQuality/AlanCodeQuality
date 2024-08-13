@@ -35,7 +35,7 @@
 
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,cypress,postman,docker,&theme=light)](https://skillicons.dev)
-![JMeter](https://jmeter.apache.org/images/jmeter.svg)
+![JUnit](https://avatars.githubusercontent.com/u/874086?s=200&v=4)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40"/>
