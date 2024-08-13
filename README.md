@@ -35,6 +35,7 @@
 
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,cypress,postman,docker,&theme=light)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,figma,idea,linux,notion,phpstorm,&theme=light)](https://skillicons.dev)
 
 
