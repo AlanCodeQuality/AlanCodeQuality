@@ -19,6 +19,8 @@
 </ul>
 
 <h2>⚡ Technologies:</h2>
+<li>Professional with experience in software testing with the following skills: functional testing, non-functional testing, test automation using Selenium WebDriver, Cypress, Postman, Jmeter, Jira, Cucumber, BDD.
+</li>
 <p>These are some of the technologies and tools I use:</p>
 
 <h3>Languages:</h3>
