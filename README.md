@@ -46,7 +46,7 @@
 
 <h2>📈 My Statistics:</h2>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dracula" alt="Alan's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanCodeQuality&show_icons=true&theme=dracula" alt="Alan's GitHub stats" />
 </div>
 
 <h2>💬 Want to get in touch?</h2>
