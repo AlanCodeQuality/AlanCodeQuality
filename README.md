@@ -11,7 +11,7 @@
 
 <br>
 
-<h2>🌻 About Me:</h2>
+<h2>✅ About Me:</h2>
 <ul>
   <li>I'm 23 years old, from Ceará-BR</li>
   <li>🚀 Student at UniCatólica-CE</li>
@@ -19,8 +19,9 @@
 </ul>
 
 <h2>⚡ Technologies:</h2>
-<li>Professional with experience in software testing with the following skills: functional testing, non-functional testing, test automation using Selenium WebDriver, Cypress, Postman, Jmeter, Jira, Cucumber, BDD.
+<li>🔥 Professional with experience in software testing with the following skills: functional testing, non-functional testing, test automation using Selenium WebDriver, Cypress, Postman, Jmeter, Jira, Cucumber, BDD.
 </li>
+<br>
 <p>These are some of the technologies and tools I use:</p>
 
 <h3>Languages:</h3>
