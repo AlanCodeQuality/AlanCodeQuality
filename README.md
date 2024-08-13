@@ -33,17 +33,20 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
 
-<h3>Stack:</h3>
+## Stack:
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div align="center">
   <img alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40"/>
   <img alt="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40"/>
   <img alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" width="40"/>
+  <img alt="JUnit" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JUnit.svg" width="40"/>
   <img alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="40"/>
-  <img alt="Gherkin" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gherkin.svg" width="40"/>
-  <img alt="Cypress" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress.svg" width="40"/>
-  <img alt="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux.svg" width="40"/>
-  <img alt="Notion" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion.svg" width="40"/>
+  <img alt="JMeter" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JMeter.svg" width="40"/>
+  <!-- Adicione ícones alternativos ou verifique se os links estão corretos -->
+  <img alt="Gherkin" src="https://example.com/gherkinsvg" width="40"/>
+  <img alt="Cypress" src="https://example.com/cypresssvg" width="40"/>
+  <img alt="Linux" src="https://example.com/linuxsvg" width="40"/>
+  <img alt="Notion" src="https://example.com/notionsvg" width="40"/>
 </div>
 
 
