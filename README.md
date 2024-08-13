@@ -31,10 +31,10 @@
 
 <h3>Databases:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=gherkin,cypress,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,&theme=light)](https://skillicons.dev)
 
 ## Stack:
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gherkin,cypress,&theme=light)](https://skillicons.dev)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40"/>
@@ -42,7 +42,6 @@
   <img alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" width="40"/>
   <img alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="40"/>
 </div>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <h3>Tools:</h3>
 
