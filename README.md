@@ -31,7 +31,7 @@
 
 <h3>Databases:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gherkin,cypress,&theme=light)](https://skillicons.dev)
 
 ## Stack:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
