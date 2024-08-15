@@ -46,8 +46,7 @@
 
 <h2>📈 My Statistics:</h2>
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCodeQuality&hide_progress=true" alt="Top Langs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanCodeQuality&show_icons=true&theme=dracula" alt="Alan's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?AlanCodeQuality&hide_progress=true" alt="Top Langs">  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanCodeQuality&show_icons=true&theme=dracula" alt="Alan's GitHub stats" />
 </div>
 
 
