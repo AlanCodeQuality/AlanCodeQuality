@@ -47,7 +47,7 @@
 <h2>📈 My Statistics:</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanCodeQuality&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCodeQulity&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCodeQuality&size_weight=0.5&count_weight=0.5)
 
 <h2>💬 Want to get in touch?</h2>
 <p>Feel free to reach out!</p>
