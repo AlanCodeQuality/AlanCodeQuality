@@ -45,7 +45,8 @@
 
 
 <h2>📈 My Statistics:</h2>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?AlanCodeQuality)](https://github.com/anuraghazra/github-readme-stats)<div align="center">
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCodeQuality&hide_progress=true" alt="Top Langs" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanCodeQuality&show_icons=true&theme=dracula" alt="Alan's GitHub stats" />
 </div>
 
