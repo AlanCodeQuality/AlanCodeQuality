@@ -45,9 +45,11 @@
 
 
 <h2>📈 My Statistics:</h2>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AlanCodeQuality&hide_progress=true)
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanCodeQuality&show_icons=true&theme=dracula" alt="Alan's GitHub stats" />
 </div>
+
 
 <h2>💬 Want to get in touch?</h2>
 <p>Feel free to reach out!</p>
