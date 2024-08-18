@@ -49,8 +49,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanCodeQuality&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCodeQuality)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>💬 Want to get in touch?</h2>
-<p>Feel free to reach out!</p>
+<h2>💬 Feel free to reach out! </h2>
+
 
 <h2>🧠 "Growth begins where comfort ends, for it's in the challenges we face that our true potential is revealed."</h2>
 
