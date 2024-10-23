@@ -13,7 +13,7 @@
 
 <h2>✅ About Me:</h2>
 <ul>
-  <li>I'm 23 years old, from Ceará-BR</li>
+  <li>I'm 24 years old, from Ceará-BR</li>
   <li>🚀 Student at UniCatólica-CE</li>
 <li>📫 My personal email: <a href="mailto:alanalmeidadev12@gmail.com">alanalmeidadev12@gmail.com</a></li>
 <li>💼 My personal LinkedIn: <a href="https://www.linkedin.com/in/alan-almeidadev/">https://www.linkedin.com/in/alan-almeidadev/</a></li>
