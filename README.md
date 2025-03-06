@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://img.shields.io/badge/Age-23-blue" alt="age" />
+  <img align="center" src="https://img.shields.io/badge/Age-24-blue" alt="age" />
   <img align="center" src="https://img.shields.io/badge/Location-Ceara--BR-blue" alt="location" />
   <img align="center" src="https://img.shields.io/badge/Student-UniCatólica--CE-blue" alt="student" />
 </div>
