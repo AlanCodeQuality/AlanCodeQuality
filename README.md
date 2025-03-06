@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Alan Almeida!</h1>
 <p align="center">Welcome to my page :)</p>
 
-<h3 align="center">Quality Assurance</h3>
 
 <div align="center">
   <img align="center" src="https://img.shields.io/badge/Age-23-blue" alt="age" />
