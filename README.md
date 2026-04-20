@@ -18,28 +18,6 @@
 <li>💼 My personal LinkedIn: <a href="https://www.linkedin.com/in/alan-almeidadev/">https://www.linkedin.com/in/alan-almeidadev/</a></li>
 </ul>
 
-<h2>⚡ Technologies:</h2>
-<br>
-<br>
-<p>These are some of the technologies and tools I use:</p>
-
-<h3>Languages:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,javascript,&theme=light)](https://skillicons.dev)
-
-<h3>Web:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,&theme=light)](https://skillicons.dev)
-
-<h3>Databases:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,&theme=light)](https://skillicons.dev)
-
-## Tools:
-[![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,cypress,postman,docker,&theme=light)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,figma,idea,linux,notion,phpstorm,&theme=light)](https://skillicons.dev)
-
 
 <h2>📈 My Statistics:</h2>
 
