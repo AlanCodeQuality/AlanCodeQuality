@@ -1,32 +1,64 @@
-<h1 align="center">Hello, I'm Alan Almeida!</h1>
-<p align="center">Welcome to my page :)</p>
+<h1 align="center">Hi, I'm Alan Almeida 👋</h1>
 
+<p align="center">
+☁️ Building my journey in Cloud Computing (AWS) <br>
+💻 Background in Linux & Networking <br>
+🚀 Sharing my evolution through real projects
+</p>
 
 <div align="center">
-  <img align="center" src="https://img.shields.io/badge/Age-24-blue" alt="age" />
-  <img align="center" src="https://img.shields.io/badge/Location-Ceara--BR-blue" alt="location" />
-  <img align="center" src="https://img.shields.io/badge/Student-UniCatólica--CE-blue" alt="student" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange" />
+  <img src="https://img.shields.io/badge/Linux-Intermediate-blue" />
+  <img src="https://img.shields.io/badge/Focus-Infrastructure-green" />
 </div>
 
 <br>
 
-<h2>✅ About Me:</h2>
-<ul>
-  <li>I'm 24 years old, from Ceará-BR</li>
-  <li>🚀 Student at UniCatólica-CE</li>
-<li>📫 My personal email: <a href="mailto:alanalmeidadev12@gmail.com">alanalmeidadev12@gmail.com</a></li>
-<li>💼 My personal LinkedIn: <a href="https://www.linkedin.com/in/alan-almeidadev/">https://www.linkedin.com/in/alan-almeidadev/</a></li>
-</ul>
+---
 
+## 🚀 About Me
 
-<h2>📈 My Statistics:</h2>
+- 🎓 Student at UniCatólica-CE  
+- 📍 Ceará, Brazil  
+- 🧠 Currently learning: **AWS, Cloud Fundamentals & Infrastructure**  
+- 🔧 Focus: turning theory into **practical projects**  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanCodeQuality&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCodeQuality)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 📌 Current Journey
 
+Right now I'm focused on:
 
+- Understanding how cloud infrastructure works in practice  
+- Building small projects using AWS  
+- Learning step by step (from basics to real architectures)  
 
-<h2>🧠 "Growth begins where comfort ends."</h2>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+## 🛠️ Projects (building...)
+
+- 🚧 Coming soon: First EC2 deployment  
+- 🚧 Coming soon: Basic cloud architecture  
+- 🚧 Coming soon: Linux + AWS integration  
+
+---
+
+## 📫 Connect with me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/alan-almeidadev/
+- 📧 Email: alanalmeidadev12@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanCodeQuality&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCodeQuality)
+
+---
+
+## 💡 Current mindset
+
+> I'm not trying to be an expert.  
+> I'm focused on improving 1% every day and documenting the process.
