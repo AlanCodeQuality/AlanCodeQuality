@@ -20,8 +20,7 @@
 
 - 🎓 Student at UniCatólica-CE  
 - 📍 Ceará, Brazil  
-- 🧠 Currently learning: **AWS, Cloud Fundamentals & Infrastructure**  
-- 🔧 Focus: turning theory into **practical projects**  
+- 🧠 Currently learning: **Software development, AWS, Cloud Fundamentals & Infrastructure**  
 
 ---
 
