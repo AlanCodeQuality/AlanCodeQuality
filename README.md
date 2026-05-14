@@ -24,24 +24,6 @@
 
 ---
 
-## 📌 Current Journey
-
-Right now I'm focused on:
-
-- Understanding how cloud infrastructure works in practice  
-- Building small projects using AWS  
-- Learning step by step (from basics to real architectures)  
-
----
-
-## 🛠️ Projects (building...)
-
-- 🚧 Coming soon: First EC2 deployment  
-- 🚧 Coming soon: Basic cloud architecture  
-- 🚧 Coming soon: Linux + AWS integration  
-
----
-
 ## 📫 Connect with me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/alan-almeidadev/
